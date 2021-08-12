@@ -1,5 +1,5 @@
 #!/bin/sh
 # bin/detect BUILD_DIR
 
-echo "HelloWorld"
+echo "Python"
 exit 0
